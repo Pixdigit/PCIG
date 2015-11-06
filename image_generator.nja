@@ -1,0 +1,30 @@
+{
+  "mainFile": "main.py", 
+  "use-tabs": true, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "Image Generator", 
+  "license": "Other Open Source", 
+  "url": "", 
+  "pythonPath": "python", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 12, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".tif", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
